@@ -8,6 +8,6 @@ avatar = "./config/assets/avatars/my-avatar.png"
 username = "fabianalmanza" # <-- github user name
 
 presentation = """
-"¡Hola! Soy Fabián, un ingeniero de petróleos apasionado por el mundo del desarrollo de software y la creación de aplicaciones web innovadoras
+"¡Hola! Mi nombre es Fabián, soy un ingeniero de petróleos apasionado por el mundo del desarrollo de software y la creación de aplicaciones web innovadoras
 Mi objetivo es aprovechar mis conocimientos técnicos y experiencia en ingeniería  para contribuir al campo de la ingeniería de software, especialmente en el ámbito del frontend.
 """
