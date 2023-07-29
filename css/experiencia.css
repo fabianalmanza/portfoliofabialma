@@ -68,7 +68,7 @@
 p.experiencia__contenido__informacion__texto{
 	justify-content: space-between;
 	font-size: 0.9rem;
-	width: 70%;
+	width: 100%;
 }
 .btn-repo, 
 .btn-demo{
