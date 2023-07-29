@@ -69,6 +69,7 @@ p.experiencia__contenido__informacion__texto{
 	width: 100%;
 	font-family: cursive;
 	color: rgb(2, 13, 46);
+	text-align: justify;
 }
 .btn-repo, 
 .btn-demo{
