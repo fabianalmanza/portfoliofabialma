@@ -8,6 +8,9 @@
 	margin: 0 auto;
 }
 
+P.experiencia__contenido__informacion__texto {
+	color: #2A7AE4;
+}
 .experiencia__titulo{
 	font-size: 25px;
 	font-weight: 600;
