@@ -52,14 +52,12 @@
 
 .experiencia__contenido__informacion__titulo{
 	font-weight: 600;
-	font-size: 1.3rem;
+	font-size: 1.4rem;
 	text-align: center;
+	font-family: fantasy;
 }    
 
-.experiencia__contenido__informacion__texto{
-	font-size: 1.2rem;
-	text-align: center;
-}
+
 
 .experiencia__contenido__informacion__titulo,
 .experiencia__contenido__informacion__texto{
