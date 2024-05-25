@@ -14,7 +14,7 @@
 
 * Html
 * Css
-* ![materialize](https://i.imgur.com/f3g4kAP.png)
+* <img src="https://i.imgur.com/f3g4kAP.png" alt="materialize" width="10" height="10">
 * Javascript
 
 ---
